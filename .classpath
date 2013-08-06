@@ -13,5 +13,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/russan/proj/java/JOpenId-1.08.jar" sourcepath="/home/russan/proj/java/JOpenId-1.08-sources.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
